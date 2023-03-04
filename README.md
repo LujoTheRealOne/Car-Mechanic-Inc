@@ -1,2 +1,2 @@
 # NFT-Inc.
-## The Ultimate Idle Tycoon.
+### The Ultimate Idle Tycoon.
