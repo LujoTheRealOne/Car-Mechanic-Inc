@@ -1,2 +1,2 @@
-# NFT-Inc.
-### The Ultimate Idle Tycoon.
+# Car Mechanic Inc.
+### The Ultimate Car Mechanic Idle Tycoon.
